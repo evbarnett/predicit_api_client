@@ -2,7 +2,7 @@
 
 PredicitIt API Client in Python
 
-## Downloading
+## Installation
 
 TODO
 
