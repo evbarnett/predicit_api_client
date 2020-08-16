@@ -28,26 +28,26 @@ market = client.get_market_with_id(market_id) # -> Market
 
 **Market Fields**
 
-market_id: int
-name: str
-short_name: str
-image_url: str
-url: str
-contracts: List\[Contract\]
-time_stamp: str
-status: str
+market_id: int  
+name: str  
+short_name: str  
+image_url: str  
+url: str  
+contracts: List\[Contract\]  
+time_stamp: str  
+status: str  
 
 **Contract Fields**
 
-contract_id: int
-date_end: str
-image_url: str
-name: str 
-short_name: str
-status: str
-last_trade_price: float
-best_buy_yes_cost: float
-best_buy_no_cost: float
-best_sell_yes_cost: float
-best_sell_no_cost: float
-display_order: int
+contract_id: int  
+date_end: str  
+image_url: str  
+name: str   
+short_name: str  
+status: str  
+last_trade_price: float  
+best_buy_yes_cost: float  
+best_buy_no_cost: float  
+best_sell_yes_cost: float  
+best_sell_no_cost: float  
+display_order: int  
