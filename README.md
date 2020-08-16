@@ -1,6 +1,8 @@
-# PredicitIt API Client
+# PredictIt API Client
 
-PredicitIt API Client in Python
+[![CI](https://github.com/evbarnett/predictit_api_client/workflows/CI/badge.svg?event=push)](https://github.com/evbarnett/predictit_api_client/actions?query=event%3Apush+branch%3Amaster+workflow%3ACI)
+
+PredictIt API Client in Python
 
 ## Installation
 

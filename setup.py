@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='predictit_client',  
+    name='predictit_client',
     version='0.1',
     author="github.com/evbarnett",
     author_email="evbarnett@protonmail.com",
