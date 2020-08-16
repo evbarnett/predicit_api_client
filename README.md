@@ -6,18 +6,48 @@ PredictIt API Client in Python
 
 ## Installation
 
-TODO
+`pip install predictit_client`
 
 ## Usage
 
 **Get all markets**
 
-TODO
+```python
+market_id = 2721
+client = Client()
+markets = client.get_all_markets() # -> List[Market]
+```
 
 **Get single market**
 
-TODO
+```python
+market_id = 2721
+client = Client()
+market = client.get_market_with_id(market_id) # -> Market
+```
 
-**Watch for changes over time**
+**Market Fields**
 
-TODO
+market_id: int
+name: str
+short_name: str
+image_url: str
+url: str
+contracts: List\[Contract\]
+time_stamp: str
+status: str
+
+**Contract Fields**
+
+contract_id: int
+date_end: str
+image_url: str
+name: str 
+short_name: str
+status: str
+last_trade_price: float
+best_buy_yes_cost: float
+best_buy_no_cost: float
+best_sell_yes_cost: float
+best_sell_no_cost: float
+display_order: int
