@@ -1,3 +1,3 @@
 from .client import Client
-from .worker import Worker
+from .market import Market
 from .contract import Contract
