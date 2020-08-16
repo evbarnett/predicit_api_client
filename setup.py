@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='predictit-client',
-    version='0.1',
+    version='0.2',
     author="github.com/evbarnett",
     author_email="evbarnett@protonmail.com",
     description="Client API wrapper for PredictIt",
