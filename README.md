@@ -1,6 +1,6 @@
 # PredictIt API Client
 
-[![CI](https://github.com/evbarnett/predictit_api_client/workflows/CI/badge.svg?event=push)](https://github.com/evbarnett/predictit_api_client/actions?query=event%3Apush+branch%3Amaster+workflow%3ACI)
+[![python-package Actions Status](https://github.com/evbarnett/predicit_api_client/workflows/python-package/badge.svg)](https://github.com/evbarnett/predicit_api_client/actions)
 
 PredictIt API Client in Python
 
