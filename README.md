@@ -7,7 +7,7 @@ PredictIt API Client for Python. Python 3+ required.
 
 ## Installation
 
-`pip install predictit_client`
+`pip install predictit-client`
 
 ## Usage
 
