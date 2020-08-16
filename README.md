@@ -1,6 +1,7 @@
 # PredictIt API Client
 
 [![python-unittest Actions Status](https://github.com/evbarnett/predicit_api_client/workflows/python-unittest/badge.svg?branch=master)](https://github.com/evbarnett/predicit_api_client/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 PredictIt API Client in Python
 
