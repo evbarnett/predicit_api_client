@@ -23,7 +23,7 @@ markets = client.get_all_markets() # -> List[Market]
 ```python
 market_id = 2721
 client = Client()
-market = client.get_market_with_id(market_id) # -> Market
+market = client.get_market_with_id(market_id) # -> Optional[Market]
 ```
 
 **Market Fields**
