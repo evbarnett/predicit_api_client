@@ -11,6 +11,10 @@ PredictIt API Client for Python. Python 3+ required.
 
 ## Usage
 
+```python
+from predictit_client import Client
+```
+
 **Get all markets**
 
 ```python
