@@ -14,4 +14,7 @@ setuptools.setup(
     url="https://github.com/evbarnett/predicit_api_client",
     license='MIT',
     packages=setuptools.find_packages(),
+    install_requires=[
+        'requests',
+    ],
 )
