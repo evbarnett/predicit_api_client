@@ -8,7 +8,7 @@ setuptools.setup(
     version='0.1',
     author="github.com/evbarnett",
     author_email="evbarnett@protonmail.com",
-    description="TODO",
+    description="Client API wrapper for PredictIt",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/evbarnett/predicit_api_client",
