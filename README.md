@@ -34,7 +34,7 @@ name: str
 short_name: str  
 image_url: str  
 url: str  
-contracts: List\[Contract\]  
+contracts: List[Contract]  
 time_stamp: str  
 status: str
 ```
